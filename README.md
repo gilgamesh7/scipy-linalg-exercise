@@ -7,4 +7,3 @@
 # Setup
 - Create venv :  python3 -m venv venv --upgrade-deps
 - Install scipy & Jupyter : pip install scipy jupyter
-- 
